@@ -1,4 +1,4 @@
-## Employee Analyzer is a Java application for managing and analyzing employee data.
+## BIG COMPANY Analyzer is a Java application for managing and analyzing employee data.
 ## It allows you to:
 
 - Load employee data from CSV files.
