@@ -8,7 +8,7 @@
 
 ## Technologies
 - Java 24+
-- Maven (or Gradle)
+- Maven
 - JUnit 5 for unit testing
 - Mockito for mocking static methods
 
