@@ -1,0 +1,16 @@
+Id,firstName,lastName,salary,managerId
+100,John,Smith,100000,
+123,Joe,Doe,60000,100
+124,Martin,Chekov,45000,123
+125,Bob,Ronstad,47000,123
+300,Alice,Hasacat,50000,124
+305,Brett,Hardleaf,34000,300
+310,Susan,Stone,37000,124
+315,Kevin,Brown,36000,124
+320,Linda,White,42000,125
+325,James,Black,39000,125
+330,Emily,Green,28000,305
+335,David,Blue,26000,330
+340,Nina,Orange,24000,335
+345,Oscar,Yellow,22000,340
+
